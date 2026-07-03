@@ -2,6 +2,6 @@ body {
  background-color: #346934;
 }
 
-.tagline {
+.tagline, .title {
  color: #ffffff;
 }
